@@ -1,7 +1,5 @@
 test
 
-<<<<<<< HEAD
 Code another
-=======
+
 add code for anonymouse
->>>>>>> 369dfbf69ac2d7d24b86425e5803a66d739cdf3c
